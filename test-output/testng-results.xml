@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-08T16:39:27 NZST" name="Suite" finished-at="2024-09-08T16:39:54 NZST" duration-ms="27418">
+    <groups>
+    </groups>
+    <test started-at="2024-09-08T16:39:27 NZST" name="Test" finished-at="2024-09-08T16:39:54 NZST" duration-ms="27418">
+      <class name="testcase.TestClass">
+        <test-method signature="verifyTitle()[pri:0, instance:testcase.TestClass@71c27ee8]" started-at="2024-09-08T16:39:27 NZST" name="verifyTitle" finished-at="2024-09-08T16:39:27 NZST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="searchBarEditing()[pri:1, instance:testcase.TestClass@71c27ee8]" started-at="2024-09-08T16:39:27 NZST" name="searchBarEditing" finished-at="2024-09-08T16:39:27 NZST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBarEditing -->
+        <test-method signature="searchFunctionality()[pri:2, instance:testcase.TestClass@71c27ee8]" started-at="2024-09-08T16:39:27 NZST" name="searchFunctionality" finished-at="2024-09-08T16:39:29 NZST" duration-ms="1740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFunctionality -->
+        <test-method signature="checkingBrokenImages()[pri:3, instance:testcase.TestClass@71c27ee8]" started-at="2024-09-08T16:39:29 NZST" name="checkingBrokenImages" finished-at="2024-09-08T16:39:31 NZST" duration-ms="1803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingBrokenImages -->
+        <test-method signature="addItemsToCart()[pri:5, instance:testcase.TestClass@71c27ee8]" started-at="2024-09-08T16:39:31 NZST" name="addItemsToCart" finished-at="2024-09-08T16:39:36 NZST" duration-ms="5123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemsToCart -->
+        <test-method signature="removeItemFromCart()[pri:6, instance:testcase.TestClass@71c27ee8]" started-at="2024-09-08T16:39:36 NZST" name="removeItemFromCart" finished-at="2024-09-08T16:39:42 NZST" duration-ms="5369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItemFromCart -->
+        <test-method signature="allPairTesting()[pri:7, instance:testcase.TestClass@71c27ee8]" started-at="2024-09-08T16:39:42 NZST" name="allPairTesting" finished-at="2024-09-08T16:39:54 NZST" duration-ms="12632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPairTesting -->
+      </class> <!-- testcase.TestClass -->
+      <class name="base.Base_Class">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:base.Base_Class@7776ab]" started-at="2024-09-08T16:39:18 NZST" name="startBrowser" finished-at="2024-09-08T16:39:27 NZST" duration-ms="9116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method is-config="true" signature="endBrowser()[pri:0, instance:base.Base_Class@7776ab]" started-at="2024-09-08T16:39:54 NZST" name="endBrowser" finished-at="2024-09-08T16:39:54 NZST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+      </class> <!-- base.Base_Class -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
